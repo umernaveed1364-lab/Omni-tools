@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tools CMS with SEO Analytics",
+  "description": "An enterprise-level multi-tool CMS platform featuring 21 fully functional calculators and utilities, customizable visual page builder, blog CMS, search tracking, custom SEO schemas, sitemap engines, advanced visitor analytics visualizations, and an integrated Gemini AI support widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
